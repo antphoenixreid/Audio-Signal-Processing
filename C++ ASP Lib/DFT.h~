@@ -1,0 +1,19 @@
+/*============================================================
+	Project: Discrete Fourier Transform
+	Author: Anthony Reid
+============================================================*/
+
+#include <complex>
+
+// define variable
+#define PI 3.141695
+
+class DFT
+{
+public:
+  DFT(auto[] x);
+  DFT(std::complex<auto>[]);
+protected:
+private:
+  std::complex<float>* X = NULL;
+}

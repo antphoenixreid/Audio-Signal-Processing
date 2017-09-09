@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/DFT.cpp
+DFT.h
+/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/DFT.h
+
+/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/DFT.h
+complex
+-
+
+/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/test.cpp
+DFT.cpp
+/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/DFT.cpp
+gtest/gtest.h
+-
+
