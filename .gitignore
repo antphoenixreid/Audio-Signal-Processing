@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Others
+'Audio Signal Processing Videos'/*

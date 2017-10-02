@@ -11,10 +11,10 @@
 class DFT
 {
 public:
-  DFT(int[] x);
+  DFT(int[]);
   DFT(std::complex<int>[]);
-  std::complex<float>[] get_Xk();
+  std::complex<float>* get_Xk();
 protected:
 private:
-  std::complex<float>* X = NULL;
+  std::complex<float>[] X = NULL;
 }

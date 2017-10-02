@@ -43,7 +43,7 @@ class DFT
     }
   }
 
-  std::complex<float>[] get_Xk()
+  std::complex<float>* get_Xk()
   {
     return X;
   }

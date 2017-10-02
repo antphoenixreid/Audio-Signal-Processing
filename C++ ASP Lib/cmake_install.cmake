@@ -1,4 +1,4 @@
-# Install script for directory: /media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib
+# Install script for directory: /media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib
 
 # Set the install prefix
 IF(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ ELSE(CMAKE_INSTALL_COMPONENT)
   SET(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 ENDIF(CMAKE_INSTALL_COMPONENT)
 
-FILE(WRITE "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/${CMAKE_INSTALL_MANIFEST}" "")
+FILE(WRITE "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib/${CMAKE_INSTALL_MANIFEST}" "")
 FOREACH(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  FILE(APPEND "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  FILE(APPEND "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 ENDFOREACH(file)

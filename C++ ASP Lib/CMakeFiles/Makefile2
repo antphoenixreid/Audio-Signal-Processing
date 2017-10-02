@@ -47,10 +47,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib"
+CMAKE_SOURCE_DIR = "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib"
+CMAKE_BINARY_DIR = "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib"
 
 #=============================================================================
 # Target rules for target CMakeFiles/runTests.dir
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = "/media/fiendnix/My Passport/Linux Folder/Audio Signal Proces
 CMakeFiles/runTests.dir/all:
 	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/depend
 	$(MAKE) -f CMakeFiles/runTests.dir/build.make CMakeFiles/runTests.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/CMakeFiles"  1
+	$(CMAKE_COMMAND) -E cmake_progress_report "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib/CMakeFiles"  1
 	@echo "Built target runTests"
 .PHONY : CMakeFiles/runTests.dir/all
 
@@ -69,9 +69,9 @@ all: CMakeFiles/runTests.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/runTests.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib/CMakeFiles" 1
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/runTests.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/media/fiendnix/My Passport/Linux Folder/Audio Signal Processing/C++ ASP Lib/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/media/fiendnix/My Passport/Engineering Practice/Audio Signal Processing/C++ ASP Lib/CMakeFiles" 0
 .PHONY : CMakeFiles/runTests.dir/rule
 
 # Convenience name for target.
